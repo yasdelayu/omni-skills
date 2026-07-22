@@ -14,9 +14,15 @@ One format. Every agent. Each skill is a folder in `skills/` with a `SKILL.md` i
 | **[seo-article](skills/seo-article/SKILL.md)** | Keyword → SERP recon, gap-driven outline, draft, on-page SEO pass with title/meta/schema | "Write an SEO article", "rank for X", "статья под ключевик" |
 | **[news-digest](skills/news-digest/SKILL.md)** | Deduplicated, cited news digest on a topic for a period, ranked by impact | "News digest", "what happened in X this week", "дайджест новостей" |
 | **[review-sentiment](skills/review-sentiment/SKILL.md)** | Reviews across platforms → sentiment split, quoted themes, action-ranked report | "Analyze reviews", "what do customers say about X", "анализ отзывов" |
+| **[extract-documents](skills/extract-documents/SKILL.md)** | Invoices/receipts/PDF batches → validated table with totals checks and exception flags | "Extract data from these invoices", "receipts to a spreadsheet", "чеки в таблицу" |
+| **[screen-resumes](skills/screen-resumes/SKILL.md)** | CVs vs. job description → evidence-quoted scores, ranked shortlist, interview questions | "Screen these CVs", "rank candidates", "отбери резюме" |
+| **[meeting-notes](skills/meeting-notes/SKILL.md)** | Transcript → decisions, owned action items, open questions, follow-up draft | "Summarize this meeting", "action items from the call", "саммари встречи" |
+| **[inbox-triage](skills/inbox-triage/SKILL.md)** | Email batch → classified buckets, urgency ranking, reply drafts; never sends | "Go through my inbox", "triage my email", "разбери почту" |
+| **[job-hunt](skills/job-hunt/SKILL.md)** | Profile → matching openings scored honestly + tailored resume/cover letter per role | "Find me jobs", "tailor my resume", "найди вакансии" |
+| **[support-replies](skills/support-replies/SKILL.md)** | Tickets + knowledge base → cited reply drafts, escalation when KB is silent | "Answer this ticket", "respond using our docs", "ответь клиенту по базе" |
 | **[new-skill](skills/new-skill/SKILL.md)** | Scaffold a new skill in this repository following the house format | "Add a skill", "create a skill for X", "новый скилл" |
 
-The first six are adapted from the most-visited automation patterns on [n8nworkflows.xyz](https://n8nworkflows.xyz/) (10k+ workflow catalog), rebuilt as agent-native instruction workflows — no n8n required.
+The work skills are adapted from the most-visited automation patterns on [n8nworkflows.xyz](https://n8nworkflows.xyz/) (10k+ workflow catalog), rebuilt as agent-native instruction workflows — no n8n required.
 
 ## Installation
 
