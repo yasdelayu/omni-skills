@@ -30,6 +30,7 @@ One format. Every agent. Each skill is a folder in `skills/` with a `SKILL.md` i
 | **[geo-optimize](skills/geo-optimize/SKILL.md)** | Restructure content so AI search engines cite it: answer-first, quotable blocks, FAQ parity | "Optimize for AI search", "GEO", "оптимизируй под нейропоиск" |
 | **[deslop](skills/deslop/SKILL.md)** | Editorial pass removing AI-writing tells: cliché filler, uniform rhythm, unsourced stats | "Make this sound less AI", "remove the slop", "убери ИИ-стиль" |
 | **[pinterest-briefs](skills/pinterest-briefs/SKILL.md)** | Pinterest niche research from public pins → cited themes, gaps, 5 production-ready briefs | "Pinterest content ideas", "what works in my niche", "что пинить" |
+| **[vet-skill](skills/vet-skill/SKILL.md)** | Security audit of a third-party skill before install: attack patterns, provenance, license | "Is this skill safe", "audit before installing", "проверь скилл" |
 | **[new-skill](skills/new-skill/SKILL.md)** | Scaffold a new skill in this repository following the house format | "Add a skill", "create a skill for X", "новый скилл" |
 
 The work skills are adapted from the most-visited automation patterns on [n8nworkflows.xyz](https://n8nworkflows.xyz/) (10k+ workflow catalog), rebuilt as agent-native instruction workflows — no n8n required.
