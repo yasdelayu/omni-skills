@@ -8,9 +8,15 @@ One format. Every agent. Each skill is a folder in `skills/` with a `SKILL.md` i
 
 | Skill | Description | Use when |
 |-------|-------------|----------|
+| **[repurpose-content](skills/repurpose-content/SKILL.md)** | One article/idea → platform-native posts for X, LinkedIn, Telegram, Instagram, Threads, Reddit | "Repurpose this", "make posts from this article", "адаптируй под соцсети" |
+| **[competitor-watch](skills/competitor-watch/SKILL.md)** | Snapshot-and-diff monitoring of competitor pricing/features pages, change-only reports | "Check competitors", "monitor pricing", "что изменилось у конкурентов" |
+| **[lead-scout](skills/lead-scout/SKILL.md)** | ICP → verified prospect list from public sources + personalized outreach drafts (never sends) | "Find leads", "build a prospect list", "найди лидов" |
+| **[seo-article](skills/seo-article/SKILL.md)** | Keyword → SERP recon, gap-driven outline, draft, on-page SEO pass with title/meta/schema | "Write an SEO article", "rank for X", "статья под ключевик" |
+| **[news-digest](skills/news-digest/SKILL.md)** | Deduplicated, cited news digest on a topic for a period, ranked by impact | "News digest", "what happened in X this week", "дайджест новостей" |
+| **[review-sentiment](skills/review-sentiment/SKILL.md)** | Reviews across platforms → sentiment split, quoted themes, action-ranked report | "Analyze reviews", "what do customers say about X", "анализ отзывов" |
 | **[new-skill](skills/new-skill/SKILL.md)** | Scaffold a new skill in this repository following the house format | "Add a skill", "create a skill for X", "новый скилл" |
 
-More coming — this catalog grows as skills are added.
+The first six are adapted from the most-visited automation patterns on [n8nworkflows.xyz](https://n8nworkflows.xyz/) (10k+ workflow catalog), rebuilt as agent-native instruction workflows — no n8n required.
 
 ## Installation
 
