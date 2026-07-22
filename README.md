@@ -27,6 +27,8 @@ One format. Every agent. Each skill is a folder in `skills/` with a `SKILL.md` i
 | **[email-sequence](skills/email-sequence/SKILL.md)** | Onboarding/nurture sequence: per-email jobs, triggers, exit conditions, drafts | "Welcome sequence", "onboarding emails", "цепочка писем" |
 | **[proposal-draft](skills/proposal-draft/SKILL.md)** | Discovery notes + your pricing → client-ready proposal; zero invented numbers | "Write a proposal", "draft a quote", "составь КП" |
 | **[make-diagram](skills/make-diagram/SKILL.md)** | System/process description → verified Mermaid or standalone SVG with layout discipline | "Draw a diagram", "visualize this architecture", "нарисуй схему" |
+| **[geo-optimize](skills/geo-optimize/SKILL.md)** | Restructure content so AI search engines cite it: answer-first, quotable blocks, FAQ parity | "Optimize for AI search", "GEO", "оптимизируй под нейропоиск" |
+| **[deslop](skills/deslop/SKILL.md)** | Editorial pass removing AI-writing tells: cliché filler, uniform rhythm, unsourced stats | "Make this sound less AI", "remove the slop", "убери ИИ-стиль" |
 | **[new-skill](skills/new-skill/SKILL.md)** | Scaffold a new skill in this repository following the house format | "Add a skill", "create a skill for X", "новый скилл" |
 
 The work skills are adapted from the most-visited automation patterns on [n8nworkflows.xyz](https://n8nworkflows.xyz/) (10k+ workflow catalog), rebuilt as agent-native instruction workflows — no n8n required.
