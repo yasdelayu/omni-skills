@@ -1,0 +1,16 @@
+{
+  "name": "omni",
+  "owner": {
+    "name": "yasdelayu"
+  },
+  "metadata": {
+    "description": "Universal Agent Skills for any AI coding agent."
+  },
+  "plugins": [
+    {
+      "name": "omni-skills",
+      "source": "./",
+      "description": "Universal Agent Skills — one SKILL.md format, every agent."
+    }
+  ]
+}

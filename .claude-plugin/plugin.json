@@ -1,0 +1,12 @@
+{
+  "name": "omni-skills",
+  "description": "Universal Agent Skills that work with any AI coding agent — one SKILL.md format for Claude Code, Cursor, Codex, OpenCode, and more.",
+  "version": "0.1.0",
+  "author": {
+    "name": "yasdelayu",
+    "url": "https://github.com/yasdelayu"
+  },
+  "homepage": "https://github.com/yasdelayu/omni-skills",
+  "repository": "https://github.com/yasdelayu/omni-skills",
+  "license": "MIT"
+}
